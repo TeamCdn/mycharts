@@ -7,6 +7,6 @@ entries:
     digest: 43a0ff901c4cb3a53d438fba7f261580f6608ba7e67c747b6864169920e5165f
     name: notificationchart
     urls:
-    - https://TeamCdn.github.io/mycharts/notificationchart-0.1.0.tgz
+    - https://teamcdn.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
 generated: 2018-02-21T10:02:02.809106837-08:00
